@@ -1,6 +1,6 @@
-# Iran IP List
+# Iran IPv4 List
 
-I provide a monthly update of IP addresses belonging to Iran here. I use five
+I provide a monthly update of IP v4 addresses belonging to Iran here. I use five
 different sources and then carefully combine them together to make sure all
 IPs are included. IPs are provided in optimized CIDRs, in both plain CIDR
 and MikroTik RouterOS firewall format.
